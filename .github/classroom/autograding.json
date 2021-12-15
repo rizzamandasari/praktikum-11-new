@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "Jurnal01",
+      "setup": "javac Jurnal01.java",
+      "run": "java Jurnal01",
+      "input": "4",
+      "output": "16",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Jurnal02",
+      "setup": "javac Jurnal02.java",
+      "run": "java Jurnal02",
+      "input": "Implementasi Algoritma\n6",
+      "output": "Aku suka kuliah Implementasi Algoritma.\nKuliah 6 jam per minggu rasanya kurang.\nTambahin dong jadi 12 jam per minggu :)",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Jurnal03a",
+      "setup": "javac Jurnal03.java",
+      "run": "java Jurnal03",
+      "input": "87 81 76",
+      "output": "80.5",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "Jurnal03b",
+      "setup": "javac Jurnal03.java",
+      "run": "java Jurnal03",
+      "input": "70 55 33",
+      "output": "49.95",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 15
+    },
+    {
+      "name": "TP01",
+      "setup": "javac TP01.java",
+      "run": "java TP01",
+      "input": "10000 30",
+      "output": "300000",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "TP02",
+      "setup": "javac TP02.java",
+      "run": "java TP02",
+      "input": "Indra Azimi\n20",
+      "output": "Halo, Indra Azimi.\nTernyata usiamu baru 20 tahun ya!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "TP03a",
+      "setup": "javac TP03.java",
+      "run": "java TP03",
+      "input": "12 3",
+      "output": "3\n0",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "TP03b",
+      "setup": "javac TP03.java",
+      "run": "java TP03",
+      "input": "20 2",
+      "output": "6\n2",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
