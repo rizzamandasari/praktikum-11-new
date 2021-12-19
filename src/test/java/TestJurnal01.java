@@ -36,3 +36,4 @@ public class TestJurnal01 {
         System.setOut(originalOut);
         System.setIn(originalIn);
 	}
+}
