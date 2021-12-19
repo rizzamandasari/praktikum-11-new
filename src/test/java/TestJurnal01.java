@@ -30,7 +30,7 @@ public class TestJurnal01 {
 		
 		String test = bos.toString();
 
-        assertTrue(test.equals("Dira") || test.equals("Radi") || test.equals("Idar"));;
+        assertTrue(test.equals("Dira") || test.equals("Radi") || test.equals("Idar"));
         
 
         System.setOut(originalOut);
