@@ -3,7 +3,7 @@
     {
       "name": "Jurnal01",
       "setup": "",
-      "run": "gradle test --test TestJurnal01",
+      "run": "gradle test --tests TestJurnal01",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "Jurnal02",
       "setup": "",
-      "run": "gradle test --test TestJurnal01",
+      "run": "gradle test --tests TestJurnal02",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -23,7 +23,7 @@
     {
       "name": "Jurnal03a",
       "setup": "",
-      "run": "gradle test --test TestJurnal01",
+      "run": "gradle test --test TestJurnal03",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -33,7 +33,7 @@
     {
       "name": "TP01",
       "setup": "",
-      "run": "gradle test --test TestJurnal01",
+      "run": "gradle test --test TestTP01",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -43,7 +43,7 @@
     {
       "name": "TP02",
       "setup": "",
-      "run": "gradle test --test TestJurnal01",
+      "run": "gradle test --test TestTP02",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -53,7 +53,7 @@
     {
       "name": "TP03",
       "setup": "",
-      "run": "gradle test --test TestJurnal01",
+      "run": "gradle test --test TestTP03",
       "input": "",
       "output": "",
       "comparison": "included",
