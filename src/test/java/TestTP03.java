@@ -7,7 +7,7 @@ import java.io.PrintStream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class TestTP02 {
+public class TestTP03 {
 
     private static final String[] INPUT = {
             "10\n4 8 3 2 8 7 1 6 9 6",
