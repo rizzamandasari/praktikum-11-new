@@ -28,7 +28,7 @@ public class TestTP03 {
             ByteArrayOutputStream bos = new ByteArrayOutputStream();
             System.setOut(new PrintStream(bos));
 
-            TP02.main(null);
+            TP03.main(null);
 
             assertEquals(OUTPUT[i] + "\n", bos.toString());
         }
